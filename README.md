@@ -1,4 +1,4 @@
-# itcs-3160-spring2020-project
+# itcs3160-spring2020-project
 
 Group:
 Lantzen Lowe
