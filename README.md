@@ -3,7 +3,8 @@
 Group:
 Lantzen Lowe,
 Marissa Oxford,
-Adam Zeid
+Adam Zeid,
+Carson Groulx
 
 Outline (TOC):
 
