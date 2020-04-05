@@ -11,7 +11,7 @@
 ## Introduction
 <p>An introduction to the project, a prototype database for a campus controlled food delivery service. The dataset includes [TODO: write some table names here] and more.
   
-Note: This project is only a prototype and not a working model.
+<i>Note: This project is only a prototype and not a working model.</i>
 
 ## Use Case
 <p>A visual representation of the campus controlled food delivery service's operation.
