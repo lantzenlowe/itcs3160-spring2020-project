@@ -1,6 +1,6 @@
 # itcs3160-spring2020-project
 
-Group 3:
+## Group 3:
 <p><b>Lantzen Lowe</b> - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
 <p><b>Marissa Oxford</b> - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
 <p><b>Adam Zeid</b> - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
