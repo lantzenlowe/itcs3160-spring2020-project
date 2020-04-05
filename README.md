@@ -20,7 +20,7 @@
 <p>A list of requirements and restraints adhered to in the creation of this project.
 
 ## EERD
-<p>An Enhanced Entity Relationship Diagram illustrating the relationships of the objects used in the database, as well as a Data Dictionary
+<p>An Enhanced Entity Relationship Diagram illustrating the relationships of the objects used in the database. Also included is a Data Dictionary
 
 ## MySQL Queries (three)
 <p>[TODO: Insert brief description]
