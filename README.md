@@ -17,10 +17,10 @@
 <p>A visual representation of the campus controlled food delivery service's operation.
 
 ## Business Rules
-<p>A list of requirements and restraints adhered to in the creation of this project.
+<p>A list of requirements and restraints such as [TODO: insert some examples from the list] adhered to in the creation of this project.
 
 ## EERD
-<p>An Enhanced Entity Relationship Diagram illustrating the relationships of the objects used in the database. Also included is a Data Dictionary
+<p>An Enhanced Entity Relationship Diagram illustrating the relationships of the objects used in the database. Also included in this section is a Data Dictionary.
 
 ## MySQL Queries (three)
 <p>[TODO: Insert brief description]
