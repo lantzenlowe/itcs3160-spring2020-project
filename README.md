@@ -9,16 +9,16 @@
 # Table of Contents:
 
 ## Introduction
-
+<p>This is a prototype database for a campus controlled food delivery service. This is not a working model. The dataset includes [TODO: write some table names here] and more.  
 
 ## Use Case
-
+<p>A visual representation of the campus controlled food delivery service's operation.
 
 ## Business Rules
-
+<p>A list of requirements and restraints adhered to in the creation of this project.
 
 ## EERD
-
+<p>An Enhanced Entity Relationship Diagram illustrating the relationship of the objects used in the database.
 
 ## MySQL Queries (three)
 
