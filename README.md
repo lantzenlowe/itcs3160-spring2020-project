@@ -1,37 +1,37 @@
 # itcs3160-spring2020-project
 
 Group 3:
-<p>Lantzen Lowe - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
-<p>Marissa Oxford - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
-<p>Adam Zeid - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
-<p>Carson Groulx - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
+<p><b>Lantzen Lowe</b> - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
+<p><b>Marissa Oxford</b> - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
+<p><b>Adam Zeid</b> - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
+<p><b>Carson Groulx</b> - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
 
-## Table of Contents:
+# Table of Contents:
 
-# Introduction
-
-
-# Use Case
+## Introduction
 
 
-# Business Rules
+## Use Case
 
 
-# EERD
+## Business Rules
 
 
-# MySQL Queries (three)
+## EERD
 
 
-# Trigger
+## MySQL Queries (three)
 
 
-# Stored Procedure
+## Trigger
 
 
-# Web/App Implementation (Optional) or Description of Future Work
+## Stored Procedure
 
 
-# MySQL dump
+## Web/App Implementation (Optional) or Description of Future Work
+
+
+## MySQL dump
 
 
