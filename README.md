@@ -5,6 +5,7 @@
 <p><b>Marissa Oxford</b> - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
 <p><b>Adam Zeid</b> - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
 <p><b>Carson Groulx</b> - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
+<p><b>Jesse Espinoza</b> - Computer Science Undergraduate Student at the University of North Carolina at Charlotte
 
 # Table of Contents:
 
