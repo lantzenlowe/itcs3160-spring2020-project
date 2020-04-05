@@ -23,17 +23,17 @@ Note: This project is only a prototype and not a working model.
 <p>An Enhanced Entity Relationship Diagram illustrating the relationships of the objects used in the database, as well as a Data Dictionary
 
 ## MySQL Queries (three)
-
+<p>[TODO: Insert brief description]
 
 ## Trigger
-
+<p>[TODO: Insert brief description]
 
 ## Stored Procedure
-
+<p>[TODO: Insert brief description]
 
 ## Web/App Implementation (Optional) or Description of Future Work
-
+<p>[TODO: Insert brief description]
 
 ## MySQL dump
-
+<p>[TODO: Insert brief description]
 
