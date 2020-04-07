@@ -17,6 +17,8 @@
 ## Use Case
 <p>A visual representation of the campus controlled food delivery service's operation.
 
+![](Use%20Case%20Diagram.png)
+
 ## Business Rules
 <p>A list of requirements and restraints such as [TODO: insert some examples from the list] adhered to in the creation of this project.
 
