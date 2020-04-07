@@ -23,7 +23,7 @@
 <p>A list of requirements and restraints such as [TODO: insert some examples from the list] adhered to in the creation of this project.
 
 ## EERD
-<p>An Enhanced Entity Relationship Diagram illustrating the relationships of the objects used in the database. Also included in this section is a Data Dictionary.
+<p>An Enhanced Entity Relationship Diagram illustrating the relationships of the objects used in the database. Also included in this section is a Data Dictionary. The Data Dictionary is under Data Dictionary file. 
   
 ![](Deliverable2%20Diagram.png)
 
