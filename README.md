@@ -22,6 +22,8 @@
 
 ## EERD
 <p>An Enhanced Entity Relationship Diagram illustrating the relationships of the objects used in the database. Also included in this section is a Data Dictionary.
+  ![Deliverable2 Diagram](https://user-images.githubusercontent.com/62611846/78708525-45f65380-78e0-11ea-8c7c-96ca58e48f9f.png)
+
 
 
 ## MySQL Queries (three)
