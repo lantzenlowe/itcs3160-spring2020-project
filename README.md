@@ -20,7 +20,7 @@
 ![](Use%20Case%20Diagram.png)
 
 ## Business Rules
-<p>A list of requirements and restraints such as [TODO: insert some examples from the list] adhered to in the creation of this project.
+<p>A list of requirements and restraints adhered to in the creation of this project. Can be found in Project Introduction file.
 
 ## EERD
 <p>An Enhanced Entity Relationship Diagram illustrating the relationships of the objects used in the database. Also included in this section is a Data Dictionary. The Data Dictionary is under Data Dictionary file. 
