@@ -1,0 +1,24 @@
+
+DROP TABLE IF EXISTS `RESTAURANT`;
+	/*!40101 SET @saved_cs_client     = @@character_set_client */;
+	 SET character_set_client = utf8mb4 ;
+	CREATE TABLE `RESTAURANT` (
+	  `location` varchar(255) default NULL,
+	   `idRestaurant` mediumint default NULL,
+	  `idOrder` mediumint default NULL,
+	  `iDstudent` mediumint default NULL
+	  PRIMARY KEY (`idRestaurant`)
+KEY `fk_Restaurant_Order1_idx` (`Order_idOrder` , `Order_Transaction_idTransaction` ) VISIBLE,
+  CONSTRAINT `fk_Restaurant_Order1` FOREIGN KEY (`Order_idOrder` , `Order_Transaction_idTransaction`) REFERENCES `delivery`.`Order` (`idOrder` , `Transaction_idTransaction`)
+	) ENGINE=InnoDB DEFAULT CHARSET=utf8;
+	/*!40101 SET character_set_client = @saved_cs_client */;
+	
+--
+-- Dumping data for table `Students`
+--
+
+LOCK TABLES `Students` WRITE;
+/*!40000 ALTER TABLE `Students` DISABLE KEYS */;
+INSERT INTO `Restaurant` (`location`,`idRestaurant`,`idOrder`,`iDstudent`) VALUES ("744-8098 In Rd.",464,802,179),("6907 Faucibus Rd.",784,207,254),("5189 Nisi. Road",798,734,799),("7919 Sed Rd.",963,585,869),("719-8302 Semper, Rd.",709,99,479),("Ap #330-5523 Donec Rd.",348,10,273),("Ap #279-9716 Quis St.",277,865,630),("Ap #759-5269 Molestie. Avenue",383,49,479),("P.O. Box 191, 2698 Aliquam, St.",868,3,194),("P.O. Box 341, 641 Arcu. Avenue",757,479,466),("Ap #985-3091 A, Rd.",696,167,270),("P.O. Box 512, 7646 Neque St.",306,553,101),("Ap #510-4787 Malesuada Av.",711,771,434),("Ap #323-5593 Rutrum Road",423,686,777),("P.O. Box 272, 1756 Imperdiet St.",123,464,139),("Ap #313-6365 Cras Road",450,959,783),("1317 Ac Rd.",455,729,780),("8921 At, Road",653,838,188),("Ap #328-1728 Integer Rd.",614,969,937),("738-3427 Non St.",962,411,12),("Ap #346-864 Etiam Street",941,423,707),("612-3813 Aliquet Av.",717,300,239),("P.O. Box 183, 6917 Turpis. St.",62,537,315),("P.O. Box 512, 1930 Elit St.",626,469,570),("P.O. Box 303, 9711 Eu St.",855,288,182),("P.O. Box 558, 9254 Consectetuer Avenue",624,351,24),("Ap #878-7050 Velit St.",572,571,262),("524 Lorem Road",222,472,920),("432-7641 Malesuada Avenue",611,629,103),("Ap #322-2868 Fermentum Avenue",690,955,691),("4806 Malesuada Av.",200,15,44),("7119 Vitae, Av.",264,46,28),("Ap #536-2123 Donec Av.",88,119,912),("5515 Facilisis Rd.",817,125,404),("Ap #832-9310 Tempus Street",158,993,597),("P.O. Box 593, 6281 Conubia Street",849,742,39),("1431 A, Rd.",902,830,775),("812-5680 Est Avenue",412,26,755),("P.O. Box 910, 5139 Velit Av.",96,176,85),("P.O. Box 711, 2655 Nec St.",742,50,271),("768-7189 Amet, Avenue",464,181,231),("P.O. Box 498, 8277 Non, Street",35,473,343),("Ap #888-7081 Dapibus Ave",755,209,325),("Ap #685-9306 Et, Rd.",281,176,943),("355-3229 Commodo St.",944,388,850),("6426 A, Street",195,136,643),("574-8797 Leo. Street",653,207,906),("Ap #979-281 Consequat Avenue",709,960,444),("7998 Eu, Street",898,794,48),("978-7240 Duis Rd.",189,620,27),("Ap #806-6175 Mauris Ave",109,828,892),("8276 Donec Street",121,390,500),("Ap #842-8445 Gravida Av.",686,618,717),("Ap #345-2702 Non Street",605,465,176),("Ap #425-3321 Augue Street",44,268,864),("Ap #606-7848 Non Rd.",216,387,724),("P.O. Box 651, 4124 Purus, Av.",881,363,115),("3317 Libero Rd.",272,655,218),("Ap #575-302 Sodales. Avenue",83,393,666),("Ap #706-4651 Dignissim Rd.",774,469,116),("6393 Donec Street",94,232,804),("P.O. Box 129, 5139 Pede Road",780,469,170),("P.O. Box 332, 9597 Pharetra St.",124,947,837),("P.O. Box 358, 7293 Amet Road",384,456,934),("2582 Etiam Avenue",5,454,153),("Ap #408-2922 Donec Ave",468,45,539),("P.O. Box 280, 8607 Donec Avenue",990,344,158),("3452 Dictum Street",577,381,985),("1360 Elementum St.",244,649,697),("Ap #101-966 Hendrerit. Av.",637,15,800),("P.O. Box 762, 5906 Erat. St.",953,580,263),("Ap #755-924 Euismod Street",155,814,467),("Ap #997-8371 Sagittis Ave",754,681,366),("2118 Ut, Street",840,736,728),("7553 Mi St.",232,100,524),("P.O. Box 333, 8012 Non Road",874,645,624),("Ap #279-3152 In Avenue",177,799,711),("P.O. Box 999, 2623 Non, Rd.",429,93,485),("P.O. Box 678, 3364 Risus. Road",823,172,698),("826-6405 Adipiscing St.",950,67,870),("430-5498 Non, Street",565,634,722),("486-4988 Fusce Av.",988,495,76),("P.O. Box 577, 9545 Cras Street",451,66,333),("Ap #841-6524 Lacus. Road",965,602,117),("164-7045 Lacinia Ave",851,973,798),("297-7692 Convallis Avenue",213,533,163),("610-9648 Lacinia St.",959,563,252),("P.O. Box 740, 6218 Vulputate Av.",926,202,474),("5881 Ullamcorper, Rd.",521,959,957),("5776 Eu Av.",471,470,241),("7237 Inceptos Avenue",46,573,458),("7189 Malesuada Rd.",818,473,439),("Ap #872-8208 Elit. Rd.",436,275,144),("P.O. Box 738, 1073 Ornare, Rd.",130,376,651),("967-3267 Donec Av.",341,392,923),("2998 Neque Rd.",825,994,980),("9132 Dictum St.",940,247,652),("3615 Nisl. Road",279,583,394),("Ap #896-575 Vel Road",889,616,259),("7344 Tempus St.",83,977,638);
+UNLOCK TABLES;
+
