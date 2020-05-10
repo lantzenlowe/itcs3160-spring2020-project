@@ -27,17 +27,15 @@
   
 ![](EERD%20Diagram.png)
 
-## MySQL Queries (three)
-<p>[TODO: Insert brief description]
-
-## Trigger
-<p>[TODO: Insert brief description]
-
-## Stored Procedure
-<p>[TODO: Insert brief description]
-
-## Web/App Implementation (Optional) or Description of Future Work
-<p>[TODO: Insert brief description]
+## Advanced Views
+<p> DROP VIEW IF EXISTS `delivery`.`view2`;
+CREATE VIEW `delivery`.`view2` AS 
+(SELECT delivery.Staff.academic_department, 
+COUNT(delivery.Staff.academic_department) AS numStaffPerDepartment
+FROM delivery.Staff
+GROUP BY delivery.Staff.academic_department
+ORDER BY delivery.Staff.academic_department);
+  CREATE VIEW `view1` AS SELECT idCustomer, firstName FROM Customer ORDER BY firstName ASC;
 
 ## MySQL dump
 <p>-- MySQL dump 10.13  Distrib 8.0.19, for Win64 (x86_64)
