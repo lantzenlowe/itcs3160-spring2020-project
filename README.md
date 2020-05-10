@@ -34,7 +34,7 @@ CREATE VIEW `delivery`.`view2` AS
 COUNT(delivery.Staff.academic_department) AS numStaffPerDepartment
 FROM delivery.Staff
 GROUP BY delivery.Staff.academic_department
-ORDER BY delivery.Staff.academic_department);  
+ORDER BY delivery.Staff.academic_department);  <br/>
 CREATE VIEW `view1` AS SELECT idCustomer, firstName FROM Customer ORDER BY firstName ASC;
 
 ## MySQL dump
